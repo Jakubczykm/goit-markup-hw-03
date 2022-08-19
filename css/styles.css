@@ -34,6 +34,12 @@ a {
   padding-top: 94px;
   padding-bottom: 94px;
 }
+
+h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.17;
+}
 /*===header===*/
 .header {
   font-size: 14px;
@@ -213,6 +219,7 @@ address {
   color: var(--blue);
 }
 /*===footer-end===*/
+/*===portfolio===*/
 .pages {
   font-size: 16px;
   font-weight: 400;
@@ -236,11 +243,6 @@ address {
   font-size: 18px;
   font-weight: 700;
   line-height: 2;
-}
-h2 {
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.17;
 }
 .btn-portfolio {
   text-align: center;
